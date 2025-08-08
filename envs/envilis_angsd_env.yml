@@ -1,0 +1,8 @@
+name: envilis_angsd_env
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - angsd=0.935
+  - htslib=1.16
+  - openssl=1.1
